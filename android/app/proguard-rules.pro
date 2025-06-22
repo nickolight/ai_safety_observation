@@ -1,0 +1,2 @@
+-keep class id.zelory.compressor.** { *; }
+-keep class com.github.hiteshsondhi88.libffmpeg.** { *; }
